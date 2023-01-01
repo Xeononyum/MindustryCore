@@ -1,0 +1,2 @@
+# MindustryCore
+Ядро для MindustryJS
